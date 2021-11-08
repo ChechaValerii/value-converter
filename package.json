@@ -1,7 +1,7 @@
 {
-  "name": "converter",
+  "name": "values-converter",
   "version": "1.0.0",
-  "description": "",
+  "description": "converter temperature, currency, distance values",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
