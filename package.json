@@ -6,8 +6,8 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["converter", "temperature", "currency", "distance"],
+  "author": "alenworld",
   "license": "ISC",
   "devDependencies": {
     "eslint": "7.32.0",
